@@ -21,3 +21,4 @@ if want == "hamburgers":
 else:
     print("We don't have those.")
     print("You are an idiot.")
+    print("Just kidding.")
